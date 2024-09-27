@@ -1,6 +1,6 @@
-As an expert in requirement analysis for software engineering, define the user stories that fit the next description of the need. For each user story define a short title, a description and the acceptance criteria.
+As an expert in requirements analysis for software engineering, define the user stories that correspond to the following user need description. For each user story, provide a short title, description, and acceptance criteria.
 
 Description:  
-Let’s simulate an online store from the command-line interface. A customer is able to see all the available products and purchase one or more units of a product as long as they are available. During the purchase, the customer needs to provide his/her username. All the purchases need to be recorded and affect the product inventory. A manager, logged in through username and password, is able to check and update the available units of a product.
+Let's simulate an online store using the command-line interface. Customers can view all available products and purchase one or more units of a product, as long as stock is available. During the purchase, the customer must provide their username. All purchases must be recorded and update the product inventory. A manager, logged in with a username and password, can check and update the available units of a product.
 
-The manager’s credentials, products and inventory need to be previously created on the database. Customers don’t need to be previously created. The database system is based on CSV files.
+Manager credentials, products and inventory must be preloaded into the database. Customers don't need to be preloaded. The database system is built using CSV files.
