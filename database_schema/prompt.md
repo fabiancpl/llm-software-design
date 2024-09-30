@@ -1,0 +1,1 @@
+As an expert in database systems, and based on the final version of the user stories, define the database schema to store the data in CSV files. Ensure the schema adheres to the third normal form. For each table (CSV file), provide the column name, data type, and a brief description.
