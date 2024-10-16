@@ -1,0 +1,1 @@
+As an expert in software architecture, based on the final version of the user stories and storage system (CSV files), define the most appropiate architectural patterns and deployment schema the solution needs to follow.
