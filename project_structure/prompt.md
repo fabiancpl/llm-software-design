@@ -1,0 +1,1 @@
+As an expert in software architecture, based on the final version of the user stories, storage system (CSV files), architectural patterns, deployment scheme, and UML diagrams, define the project structure and files required to start developing the application using Python.
